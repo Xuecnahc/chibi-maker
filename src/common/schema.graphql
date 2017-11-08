@@ -1,0 +1,58 @@
+type Status {
+  status: String!
+  statusText: String
+}
+
+type Part {
+  id: String!
+  path: String!
+  colors: [String]
+}
+
+type Parts {
+  eyes: Part
+  hairs: Part
+  jackets: Part
+  shirts: Part
+  pants: Part
+  shoes: Part
+}
+
+type Character {
+  parts: Parts
+  name: String!
+  id: String!
+}
+
+input PartInput {
+  id: String!
+  path: String!
+  colors: [String]
+}
+
+input PartsInput {
+  eyes: PartInput
+  hairs: PartInput
+  jackets: PartInput
+  shirts: PartInput
+  pants: PartInput
+  shoes: PartInput
+}
+
+input CharacterInput {
+  parts: PartsInput
+  name: String!
+  id: String!
+}
+
+type Query {
+  getCharacters: [Character]
+  getCharacterByName(name: String!): Character
+  getCharacterById(id: String!): Character
+}
+
+type Mutation {
+  saveCharacter(character: CharacterInput!): Status
+  deleteCharacter(id: String!): Status
+  renameCharacter(id: String!, name: String!): Status
+}

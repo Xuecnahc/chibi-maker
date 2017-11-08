@@ -1,0 +1,12 @@
+{
+  "eyes": {
+    "none": {"id": "none", "path": "myPath"},
+    "happy": {"id": "happy", "path": "myPath"},
+    "stonned": {"id": "stonned", "path": "myPath"}
+  },
+  "hairs": {
+    "none": {"id": "none", "path": "myPath"},
+    "long": {"id": "long", "path": "myPath"},
+    "short": {"id": "short", "path": "myPath"}
+  }
+}

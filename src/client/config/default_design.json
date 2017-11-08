@@ -1,0 +1,11 @@
+{
+  "parts": {
+    "eyes": {"id": "happy", "path": "myPath", "colors": ["#FFFFFFFF", "#FFFFFFFF"]},
+    "hairs": {"id": "long", "path": "myPath", "colors": ["#FFFFFFFF", "#FFFFFFFF"]},
+    "jackets": {"id": "cool", "path": "myPath", "colors": ["#FFFFFFFF", "#FFFFFFFF"]},
+    "shirts": {"id": "nya", "path": "myPath", "colors": ["#FFFFFFFF", "#FFFFFFFF"]},
+    "pants": {"id": "jazz", "path": "myPath", "colors": ["#FFFFFFFF", "#FFFFFFFF"]},
+    "shoes": {"id": "vopal+2", "path": "myPath", "colors": ["#FFFFFFFF", "#FFFFFFFF"]}
+  },
+  "name": ""
+}

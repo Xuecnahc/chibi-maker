@@ -1,0 +1,73 @@
+{
+  "head": {
+    "eyes": {
+      "none": {"path": "myPath"},
+      "happy": {"path": "myPath"},
+      "sad": {"path": "myPath"},
+      "sad2": {"path": "myPath"},
+      "sad3": {"path": "myPath"},
+      "sad4": {"path": "myPath"},
+      "sad5": {"path": "myPath"},
+      "sad6": {"path": "myPath"},
+      "sad7": {"path": "myPath"},
+      "sad8": {"path": "myPath"},
+      "sad9": {"path": "myPath"},
+      "sad10": {"path": "myPath"},
+      "sad11": {"path": "myPath"},
+      "sad12": {"path": "myPath"},
+      "sad13": {"path": "myPath"},
+      "sad14": {"path": "myPath"},
+      "sad15": {"path": "myPath"},
+      "sad16": {"path": "myPath"},
+      "sad17": {"path": "myPath"},
+      "sad18": {"path": "myPath"},
+      "sad19": {"path": "myPath"},
+      "sad20": {"path": "myPath"},
+      "sad21": {"path": "myPath"},
+      "sad22": {"path": "myPath"},
+      "sad23": {"path": "myPath"},
+      "sad24": {"path": "myPath"},
+      "sad25": {"path": "myPath"},
+      "sad26": {"path": "myPath"},
+      "sad27": {"path": "myPath"},
+      "sad28": {"path": "myPath"},
+      "sad29": {"path": "myPath"},
+      "sad30": {"path": "myPath"},
+      "sad31": {"path": "myPath"},
+      "sad32": {"path": "myPath"},
+      "sad33": {"path": "myPath"},
+      "sad34": {"path": "myPath"},
+      "sad35": {"path": "myPath"},
+      "stonned": {"path": "myPath"}
+    },
+    "hairs": {
+      "none": {"path": "myPath"},
+      "long": {"path": "myPath"},
+      "short": {"path": "myPath"}
+    }
+  },
+  "top": {
+    "jackets": {
+      "none": {"path": "myPath"},
+      "cool": {"path": "myPath"},
+      "less cool": {"path": "myPath"}
+    },
+    "shirts": {
+      "none": {"path": "myPath"},
+      "nya": {"path": "myPath"},
+      "nyours": {"path": "myPath"}
+    }
+  },
+  "bottom": {
+    "pants": {
+      "none": {"path": "myPath"},
+      "rock": {"path": "myPath"},
+      "jazz": {"path": "myPath"}
+    },
+    "shoes": {
+      "none": {"path": "myPath"},
+      "armored": {"path": "myPath"},
+      "vopal+2": {"path": "myPath"}
+    }
+  }
+}

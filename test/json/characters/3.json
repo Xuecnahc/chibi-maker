@@ -1,0 +1,55 @@
+{
+  "parts": {
+    "eyes": {
+      "id": "sad22",
+      "path": "myPath",
+      "colors": [
+        "#8a8710",
+        "#62f56b"
+      ]
+    },
+    "hairs": {
+      "id": "none",
+      "path": "myPath",
+      "colors": [
+        "#ea4601",
+        "#b9ad01"
+      ]
+    },
+    "jackets": {
+      "id": "none",
+      "path": "myPath",
+      "colors": [
+        "#eb54db",
+        "#3ccd10"
+      ]
+    },
+    "shirts": {
+      "id": "none",
+      "path": "myPath",
+      "colors": [
+        "#b3e7e4",
+        "#c75a5c"
+      ]
+    },
+    "pants": {
+      "id": "jazz",
+      "path": "myPath",
+      "colors": [
+        "#2c84d8",
+        "#e7ba02"
+      ]
+    },
+    "shoes": {
+      "id": "vopal+2",
+      "path": "myPath",
+      "colors": [
+        "#ac421a",
+        "#1aef5c"
+      ]
+    }
+  },
+  "name": "Nagasawa Miyo",
+  "id": "3",
+  "creationTimestamp": 1506557022144
+}

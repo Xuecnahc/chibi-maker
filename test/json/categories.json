@@ -1,0 +1,26 @@
+{
+  "head": {
+    "eyes": {
+      "none": {"id": "none", "path": "myPath"},
+      "happy": {"id": "happy", "path": "myPath"},
+      "stonned": {"id": "stonned", "path": "myPath"}
+    },
+    "hairs": {
+      "none": {"id": "none", "path": "myPath"},
+      "long": {"id": "long", "path": "myPath"},
+      "short": {"id": "short", "path": "myPath"}
+    }
+  },
+  "top": {
+    "jackets": {
+      "none": {"id": "none", "path": "myPath"},
+      "cool": {"id": "long", "path": "myPath"},
+      "less cool": {"id": "short", "path": "myPath"}
+    },
+    "shirts": {
+      "none": {"id": "none", "path": "myPath"},
+      "nya": {"id": "nya", "path": "myPath"},
+      "nyours": {"id": "nyours", "path": "myPath"}
+    }
+  }
+}

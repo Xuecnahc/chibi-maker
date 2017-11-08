@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    "relay"
+  ],
+  "presets": [
+    "react",
+    "es2015"
+  ]
+}

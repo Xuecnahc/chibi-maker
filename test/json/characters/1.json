@@ -1,0 +1,54 @@
+{
+  "parts": {
+    "eyes": {
+      "id": "stonned",
+      "path": "myPath",
+      "colors": [
+        "#4c4e1b",
+        "#e3e550"
+      ]
+    },
+    "hairs": {
+      "id": "long",
+      "path": "myPath",
+      "colors": [
+        "#deaafb",
+        "#8d29b8"
+      ]
+    },
+    "jackets": {
+      "id": "less cool",
+      "path": "myPath",
+      "colors": [
+        "#875cca",
+        "#6ceff0"
+      ]
+    },
+    "shirts": {
+      "id": "nyours",
+      "path": "myPath",
+      "colors": [
+        "#417bb4",
+        "#f8526c"
+      ]
+    },
+    "pants": {
+      "id": "rock",
+      "path": "myPath",
+      "colors": [
+        "#bd780d",
+        "#c41438"
+      ]
+    },
+    "shoes": {
+      "id": "none",
+      "path": "myPath",
+      "colors": [
+        "#4732ec",
+        "#295845"
+      ]
+    }
+  },
+  "name": "Etsuko Eisen",
+  "id": "1"
+}

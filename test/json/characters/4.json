@@ -1,0 +1,55 @@
+{
+  "parts": {
+    "eyes": {
+      "id": "sad16",
+      "path": "myPath",
+      "colors": [
+        "#9d1d0b",
+        "#690a4b"
+      ]
+    },
+    "hairs": {
+      "id": "none",
+      "path": "myPath",
+      "colors": [
+        "#696cc0",
+        "#62eeb8"
+      ]
+    },
+    "jackets": {
+      "id": "cool",
+      "path": "myPath",
+      "colors": [
+        "#1d9fb8",
+        "#2919cf"
+      ]
+    },
+    "shirts": {
+      "id": "nyours",
+      "path": "myPath",
+      "colors": [
+        "#275d58",
+        "#38002c"
+      ]
+    },
+    "pants": {
+      "id": "none",
+      "path": "myPath",
+      "colors": [
+        "#36c894",
+        "#5522d6"
+      ]
+    },
+    "shoes": {
+      "id": "armored",
+      "path": "myPath",
+      "colors": [
+        "#91030f",
+        "#902a60"
+      ]
+    }
+  },
+  "name": "Tamuro Chiyuki",
+  "id": "4",
+  "creationTimestamp": 1506556999065
+}

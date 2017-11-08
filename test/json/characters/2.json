@@ -1,0 +1,55 @@
+{
+  "parts": {
+    "eyes": {
+      "id": "sad13",
+      "path": "myPath",
+      "colors": [
+        "#d9775a",
+        "#a6cb43"
+      ]
+    },
+    "hairs": {
+      "id": "long",
+      "path": "myPath",
+      "colors": [
+        "#841977",
+        "#8b2c87"
+      ]
+    },
+    "jackets": {
+      "id": "none",
+      "path": "myPath",
+      "colors": [
+        "#baea17",
+        "#be7e6c"
+      ]
+    },
+    "shirts": {
+      "id": "nyours",
+      "path": "myPath",
+      "colors": [
+        "#673f61",
+        "#47695d"
+      ]
+    },
+    "pants": {
+      "id": "rock",
+      "path": "myPath",
+      "colors": [
+        "#7894bf",
+        "#3a6700"
+      ]
+    },
+    "shoes": {
+      "id": "armored",
+      "path": "myPath",
+      "colors": [
+        "#b8dd08",
+        "#d84623"
+      ]
+    }
+  },
+  "name": "Endou Meyu",
+  "id": "2",
+  "creationTimestamp": 1506556996882
+}
